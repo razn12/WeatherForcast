@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 15,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 213,
+                        "endLine": 13,
+                        "endColumn": 15,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 51,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 51,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 52,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 50,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 50,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\AndroidStudioProjects\\WeatherForcast\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
